@@ -1,3 +1,3 @@
 This is a simple calculator!
 
-![image](https://github.com/swamy05-14/microProject-3/assets/29924282/9b9133a4-e5cb-4fcd-901e-b70bc12cee1c)
+![image](https://github.com/user-attachments/assets/148edba3-0ae7-4517-9c0c-d7eda695c9e7)
